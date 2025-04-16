@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "5be6",
+      "name": "Jim Batz"
+    },
+    {
+      "id": "3aa5",
+      "name": "Miss Everett Flatley DDS"
+    },
+    {
+      "id": "ae9c",
+      "name": "Johnnie Considine"
+    },
+    {
+      "id": "9ef4",
+      "name": "Stacey Hane"
+    },
+    {
+      "id": "1e32",
+      "name": "Wallace Schiller"
+    },
+    {
+      "id": "fa52",
+      "name": "Latoya Leuschke"
+    },
+    {
+      "id": "f0a5",
+      "name": "Rochelle Waelchi"
+    },
+    {
+      "id": "6ea1",
+      "name": "Isabel Prosacco"
+    }
+  ],
+  "albums": [
+    {
+      "id": "6c5d",
+      "title": "Sleek Rubber Pizza",
+      "userId": 1
+    },
+    {
+      "id": "caae",
+      "title": "Recycled Soft Hat",
+      "userId": 1
+    },
+    {
+      "id": "6c12",
+      "title": "Licensed Steel Salad",
+      "userId": 1
+    },
+    {
+      "id": "ac80",
+      "title": "Modern Soft Bacon",
+      "userId": 1
+    }
+  ],
+  "photos": []
+}
